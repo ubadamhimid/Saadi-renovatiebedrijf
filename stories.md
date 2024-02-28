@@ -1,0 +1,10 @@
+# User Stories voor Saadi Renovatiebedrijf
+
+| US-id | Wie                | Wat                                                  | Waarom                                                                                           | Realistisch?                                                                                         | Prioriteit |
+|-------|--------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------|
+| SR-01 | Als projectmanager | Wil ik een dashboard hebben om projecten te overzien | Zodat ik de voortgang van elk renovatieproject efficiënt kan monitoren en beheren                | Ja, een centraal dashboard is essentieel voor projectbeheer en is realistisch te implementeren      | Hoog       |
+| SR-02 | Als klant          | Wil ik foto's van eerdere projecten kunnen bekijken  | Zodat ik een idee kan krijgen van de kwaliteit en stijl van het werk van het renovatiebedrijf     | Zeer realistisch, dit helpt bij het vertrouwen en transparantie naar de klant toe                    | Hoog       |
+| SR-03 | Als werkman        | Wil ik toegang hebben tot werkroosters via mijn mobiel | Zodat ik altijd weet waar en wanneer mijn volgende opdracht is                                    | Dit is haalbaar met de huidige technologie en helpt bij het optimaliseren van de operationele workflow | Middel     |
+| SR-04 | Als klant          | Wil ik online een offerte kunnen aanvragen           | Zodat ik snel en gemakkelijk een schatting kan krijgen van de kosten voor mijn renovatieproject   | Dit is een standaardfunctie voor moderne bedrijven en is dus realistisch                             | Hoog       |
+| SR-05 | Als administrateur | Wil ik een systeem om betalingen te volgen           | Zodat ik de financiële status van elk project kan beheren en rapporteren                           | Financiële tracking is cruciaal en zeker realistisch met de huidige softwareoplossingen             | Hoog       |
+
