@@ -136,8 +136,17 @@
         <div class="absolute bg-gradient-to-r from-gray-900 to-gray-900 opacity-75 inset-0 z-0"></div>
         <div>
             <div class="min-h-screen flex justify-center">
+                <div class="tekst-slider-telefoon max-w-lg text-center sm:text-center ">
+                    <h2 class="text-4xl font-bold text-gray-100 tracking-tight">
+                        Waar uw visie onze renovatiecreatie wordt.
+                    </h2>
 
+                    <p class="mt-4 text-gray-300">
+                        Saadi Renovatiebedrijf
+                    </p>
+                </div>
                 <div class="grid grid-cols-2 gap-4 items-center z-10">
+
                     <div class="max-w-lg text-center sm:text-center tekst-slider">
                         <h2 class="text-4xl font-bold text-gray-100 tracking-tight">
                             Waar uw visie onze renovatiecreatie wordt.
