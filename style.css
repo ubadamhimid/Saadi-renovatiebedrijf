@@ -69,6 +69,10 @@ body {
     color: #F2E49B;
 }
 
+.tekst-slider-telefoon {
+    display: none;
+}
+
 @media screen and (max-width: 1025px) {
     section.badage {
         display: none;
@@ -189,14 +193,12 @@ body {
     accent-color: #D9AD5B;
 }
 
-/* CSS for Projecten */
 
 .img-projecten {
     --s: 15px;
     --b: 2px;
     --w: 200px;
     --c: #D9AD5B;
-
     width: var(--w);
     aspect-ratio: 1;
     object-fit: cover;
@@ -210,9 +212,9 @@ body {
     transition: 0.4s;
 }
 
-/* telfoon */ 
+/* telefoon */
 
-@media (max-width: 767px) {
+@media (max-width: 1050px) {
     .slider-conterin {
         display: none !important;
     }
@@ -221,6 +223,15 @@ body {
         background-color: #262626;
         color: #F2E49B;
     }
+
+    .tekst-slider {
+        display: none !important;
+    }
+
+    .tekst-slider-telefoon {
+        display: block !important;
+        opacity: 1 !important;
+        z-index: 1111;
+        margin-top: 201px;
+    }
 }
-
-
