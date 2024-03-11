@@ -113,13 +113,13 @@
                 <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1 pl-20" id="mobile-menu-2">
                     <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                         <li>
-                            <a href="https://saadirenovatiebedrijf.nl" class="block py-2 pr-4 pl-3 text-gray-400 rounded bg-primary-600 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Home</a>
+                            <a href="https://saadirenovatiebedrijf.nl" class="block py-2 pr-4 pl-3 text-white rounded bg-primary-600 lg:bg-transparent lg:text-primary-700 lg:p-0" aria-current="page">Home</a>
                         </li>
                         <li>
                             <a href="/#offerte" class="block py-2 pr-4 pl-3 text-gray-400 border-b border-gray-700 hover:bg-gray-700 lg:hover:bg-transparent lg:border-0 lg:hover:text-white lg:p-0">Offerte</a>
                         </li>
                         <li>
-                            <a href="/projecten" class="block py-2 pr-4 pl-3 text-white border-b border-gray-700 hover:bg-gray-700 lg:hover:bg-transparent lg:border-0 lg:hover:text-white lg:p-0">Projecten</a>
+                            <a href="/projecten" class="block py-2 pr-4 pl-3 text-gray-400  border-b border-gray-700 hover:bg-gray-700 lg:hover:bg-transparent lg:border-0 lg:hover:text-white lg:p-0">Projecten</a>
                         </li>
                         <li>
                             <a href="/#footer" class="block py-2 pr-4 pl-3 text-gray-400 border-b border-gray-700 hover:bg-gray-700 lg:hover:bg-transparent lg:border-0 lg:hover:text-white lg:p-0">Contact</a>
