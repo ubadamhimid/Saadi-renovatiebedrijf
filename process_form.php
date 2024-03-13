@@ -27,8 +27,8 @@ try {
     $spaceDetails    = $_POST['spaceDetails'];
     $termsAgreement  = isset($_POST['terms']) ? 'Ja' : 'Nee';
 
-    $mail->setFrom('info@saadirenovatiebedrijf.nl', $lastName); // Verzender
-    $mail->addAddress('info@saadirenovatiebedrijf.nl', $lastName); // Ontvanger
+    $mail->setFrom('info@saadirenovatiebedrijf.nl', $lastName);
+    $mail->addAddress('info@saadirenovatiebedrijf.nl', $lastName);
 
     $mail->isHTML(true);
     $mail->Subject = 'Afspraak Aanvraag: ' . $lastName;
